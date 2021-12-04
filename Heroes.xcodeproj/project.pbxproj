@@ -51,8 +51,12 @@
 		84F9C39D275C180D00F17ECB /* Heroes */ = {
 			isa = PBXGroup;
 			children = (
-				84F9C39E275C180D00F17ECB /* HeroesApp.swift */,
-				84F9C3A0275C180D00F17ECB /* ContentView.swift */,
+				84F9C3B1275C1A0B00F17ECB /* Extension */,
+				84F9C3B0275C1A0300F17ECB /* Model */,
+				84F9C3AF275C19F700F17ECB /* Data */,
+				84F9C3AE275C19B600F17ECB /* View */,
+				84F9C3AD275C19B000F17ECB /* Utils */,
+				84F9C3AC275C19AB00F17ECB /* App */,
 				84F9C3A2275C180E00F17ECB /* Assets.xcassets */,
 				84F9C3A4275C180E00F17ECB /* Preview Content */,
 			);
@@ -65,6 +69,50 @@
 				84F9C3A5275C180E00F17ECB /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		84F9C3AC275C19AB00F17ECB /* App */ = {
+			isa = PBXGroup;
+			children = (
+				84F9C39E275C180D00F17ECB /* HeroesApp.swift */,
+				84F9C3A0275C180D00F17ECB /* ContentView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		84F9C3AD275C19B000F17ECB /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		84F9C3AE275C19B600F17ECB /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		84F9C3AF275C19F700F17ECB /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		84F9C3B0275C1A0300F17ECB /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		84F9C3B1275C1A0B00F17ECB /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
