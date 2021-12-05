@@ -1,6 +1,6 @@
 # Heroes App
 
-# 👨‍💻 Tech stack
+# 👩🏽‍💻 Tech stack
 
 - This project uses Swift and SwiftUi.
 
